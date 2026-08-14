@@ -80,6 +80,4 @@ We begin every engagement the same way: three complete tasks, built to our full 
 **Vishwastam Shukla** — Founder
 vishwastam.shukla@gmail.com · [LinkedIn](https://linkedin.com/in/vishwastam-shukla) · Bangalore, India
 
-Previously CTO at HackerEarth, where he built and licensed coding datasets to frontier AI labs. Earlier at Amazon, MoveInSync and PubNinja.
-
 Our full standard operating procedure — twelve production stages, nine gates, the failure taxonomy and the adversarial hardening checklist — is available to prospective partners under NDA.
